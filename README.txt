@@ -1,4 +1,4 @@
-Here is my portfolio.
+Please find my portfolio at https://ishelvirakeira.github.io/Portfolio/
 
 Source: 
 Dimension by HTML5 UP
@@ -32,3 +32,4 @@ Credits:
 		jQuery (jquery.com)
 
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
